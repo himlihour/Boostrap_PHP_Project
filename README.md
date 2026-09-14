@@ -26,21 +26,10 @@ The goal of this project was to construct a real-world, user-centric e-commerce 
 
 ---
 
-## 🎥 Live Video Walkthrough
-
-A full feature and responsive walkthrough is included directly in this repository:
-
-https://github.com/user-attachments/assets/demo.mp4
-
-> **Direct File:** You can also watch or download the recording locally: [`demo.mp4`](demo.mp4) (11.2 MB).
+## 🎥 Live Walkthrough
 
 <p align="center">
   <img src="demo.gif" alt="Li Hour Phone Shop Live Walkthrough" width="100%" />
-</p>
-
-<p align="center">
-  <strong>🎬 Live Walkthrough Demo</strong> &mdash; <em>Responsive catalog layout, brand identity, and interactive navigation.</em><br>
-  <a href="demo.mp4">▶ Download / View Full High-Res Video (demo.mp4)</a>
 </p>
 
 ---
