@@ -34,11 +34,14 @@ https://github.com/user-attachments/assets/demo.mp4
 
 > **Direct File:** You can also watch or download the recording locally: [`demo.mp4`](demo.mp4) (11.2 MB).
 
-<div align="center">
-  <video src="demo.mp4" width="100%" controls="controls" poster="img/lihour-logo.png">
-    Your browser does not support the video tag. Please check <a href="demo.mp4">demo.mp4</a> directly.
-  </video>
-</div>
+<p align="center">
+  <img src="demo.gif" alt="Li Hour Phone Shop Live Walkthrough" width="100%" />
+</p>
+
+<p align="center">
+  <strong>🎬 Live Walkthrough Demo</strong> &mdash; <em>Responsive catalog layout, brand identity, and interactive navigation.</em><br>
+  <a href="demo.mp4">▶ Download / View Full High-Res Video (demo.mp4)</a>
+</p>
 
 ---
 
